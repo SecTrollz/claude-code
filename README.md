@@ -1,8 +1,9 @@
 <div align="center">
 
-# Claude Code — Leaked Source
+# Claude Code — Leaked Source... more like lost at sea unable to release.
 
-**The full source code of Anthropic's Claude Code CLI, leaked on March 31, 2026**
+**This not the full source code of Anthropic's Claude Code CLI, what you're actually looking at is something I built and that I had leaked to the public on March 31, 2026. however I never claimed copy wright so the anthropic company I was planning to make got taken cuz I couldn't renew the domain name so when I finally was found the anthropic claude company had already been born as this was an idea between me and some colleges well I didn't know and when ever I was finally able to be found 19 years had gone by and my brand matches someone's who's also a legal copy wright owner because thought I had kept the brand name and came up with it originally which give me wright he had organically developed it  which gives him rights so now Iust reband and trim the teletry and analytics to use my non test endpoints also I am planning to made it named "edualccode" and we will go with a purple since orange is in use.  and we will invert this that the logo compromise invert flip and change it in the least way required by law
+
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-512K%2B_lines-3178C6?logo=typescript&logoColor=white)](#tech-stack)
 [![Bun](https://img.shields.io/badge/Runtime-Bun-f472b6?logo=bun&logoColor=white)](#tech-stack)
